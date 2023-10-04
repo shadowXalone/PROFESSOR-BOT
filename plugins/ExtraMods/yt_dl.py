@@ -1,4 +1,4 @@
-from future import unicode_literals
+from __future__ import unicode_literals
 
 import os, requests, asyncio, math, time, wget
 from pyrogram import filters, Client
